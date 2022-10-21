@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0a6bf5e1398722a5",
+        "id": "02f0edc6a0c40ae6",
         "type": "tabs",
         "children": [
           {
-            "id": "d88f6a4eb245bd30",
+            "id": "b4b01347d624be69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "095 Lists MOC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "095 Lists MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "095 Lists MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,19 +124,32 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "095 Lists MOC.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d88f6a4eb245bd30",
-  "lastOpenFiles": []
+  "active": "b4b01347d624be69",
+  "lastOpenFiles": [
+    "Breathing Exercises TOC.md",
+    "095 Lists MOC.md",
+    "000 Index.md",
+    "100 Projects MOC.md",
+    "001 Projects.md",
+    "090 PKM MOC.md",
+    "IMF MOC.md",
+    "Guiding Principles of Knowledge Management.md",
+    "010 Mind MOC.md",
+    "201908171004 Example.md"
+  ]
 }
